@@ -1,0 +1,18 @@
+{
+  "classification_report_random_forest": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/classification_report_random_forest.txt",
+  "roc_random_forest": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/roc_random_forest.png",
+  "pr_random_forest": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/pr_random_forest.png",
+  "confusion_random_forest": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/confusion_matrix_random_forest.png",
+  "classification_report_xgboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/classification_report_xgboost.txt",
+  "roc_xgboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/roc_xgboost.png",
+  "pr_xgboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/pr_xgboost.png",
+  "confusion_xgboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/confusion_matrix_xgboost.png",
+  "classification_report_lightgbm": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/classification_report_lightgbm.txt",
+  "roc_lightgbm": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/roc_lightgbm.png",
+  "pr_lightgbm": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/pr_lightgbm.png",
+  "confusion_lightgbm": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/confusion_matrix_lightgbm.png",
+  "classification_report_catboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/classification_report_catboost.txt",
+  "roc_catboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/roc_catboost.png",
+  "pr_catboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/pr_catboost.png",
+  "confusion_catboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs/full/confusion_matrix_catboost.png"
+}

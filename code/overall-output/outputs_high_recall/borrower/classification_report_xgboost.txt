@@ -1,0 +1,10 @@
+Chosen threshold: 0.1476 (target recall >= 0.9)
+
+              precision    recall  f1-score   support
+
+ non_default      0.998     0.903     0.948     10784
+     default      0.148     0.900     0.254       201
+
+    accuracy                          0.903     10985
+   macro avg      0.573     0.902     0.601     10985
+weighted avg      0.982     0.903     0.935     10985

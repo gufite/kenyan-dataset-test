@@ -1,0 +1,23 @@
+{
+  "split": "group_split(customer_id)",
+  "dropped_features": [
+    "burden_percentile",
+    "latest_amount_ma3",
+    "repayment_consistency",
+    "repayment_intensity",
+    "trend_in_amount",
+    "trend_in_burden"
+  ],
+  "roc_random_forest": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/roc_random_forest.png",
+  "pr_random_forest": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/pr_random_forest.png",
+  "confusion_random_forest": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/confusion_random_forest.png",
+  "roc_xgboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/roc_xgboost.png",
+  "pr_xgboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/pr_xgboost.png",
+  "confusion_xgboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/confusion_xgboost.png",
+  "roc_lightgbm": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/roc_lightgbm.png",
+  "pr_lightgbm": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/pr_lightgbm.png",
+  "confusion_lightgbm": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/confusion_lightgbm.png",
+  "roc_catboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/roc_catboost.png",
+  "pr_catboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/pr_catboost.png",
+  "confusion_catboost": "/home/name-1/AI-Agent/frankscore/kenyan-dataset-issue/code/model/outputs_leakage_safe/borrower/confusion_catboost.png"
+}

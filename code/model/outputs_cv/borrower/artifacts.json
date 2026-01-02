@@ -1,0 +1,10 @@
+{
+  "split": "time_cv(pseudo_disb_date)",
+  "n_folds": 3,
+  "dropped_features": [
+    "interest_rate",
+    "lender_risk_profile",
+    "pseudo_disb_date",
+    "repayment_intensity"
+  ]
+}
